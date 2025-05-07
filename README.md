@@ -72,6 +72,9 @@ Before running the app, you **must download the inpainting models manually** and
 - [Kandinsky 2.2 Decoder](https://huggingface.co/kandinsky-community/kandinsky-2-2-decoder)
 - [SAM (Segment Anything)](https://github.com/facebookresearch/segment-anything) - download `sam2.1_l.pt` and place it in the `models/` directory
 
+or simply go to https://drive.google.com/drive/folders/1NFPmSn-MWy6_1iC8g3wz_EUSik4E9_mA?usp=sharing 
+and download the inpaint models folder and models folder
+
 > Make sure the directory structure looks like this:
 ```
 inpaint models/
